@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.infurnity.com	TRUE	/	FALSE	1999999999	__cfduid	d368495aa8f487072160fd4a66b38a8541552062907
+2018.furrnion.org	TRUE	/	FALSE	1999999999	PHPSESSID	5mu8bdfqnmgok5qjdlsbe0l2p5
+2018.furrnion.org	TRUE	/	FALSE	1999999999	qtrans_front_language	en
+
